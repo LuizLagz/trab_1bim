@@ -14,7 +14,7 @@ export default function Pagina(props){
                 }
                 {props.children}
             </div>
-            <Rodape conteudo="Unoeste FIPP - 2023"/>
+            <Rodape conteudo="Linguagens de Programação II"/>
         </>
     )
 }

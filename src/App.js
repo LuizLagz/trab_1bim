@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import TelaMenu from './telasCadastro/TelaMenu';
 import TelaCadCliente from './telasCadastro/TelaCadCliente'
 import TelaCadFornecedor from './telasCadastro/TelaCadFornecedor'
+import TelaCadProduto from './telasCadastro/TelaCadProduto';
 
 export default function App() {
   
@@ -12,6 +13,7 @@ export default function App() {
           <Route path='/' element={<TelaMenu/>}/>
           <Route path='/cadCliente' element={<TelaCadCliente/>}/>
           <Route path='/cadFornecedor' element={<TelaCadFornecedor/>}/>
+          <Route path='/cadProduto' element={<TelaCadProduto/>}/>
         </Routes>     
       </BrowserRouter>
     </div>
