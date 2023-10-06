@@ -12,7 +12,7 @@ export default function App() {
       <BrowserRouter>
         <Routes>  
           <Route path='/' element={<TelaMenu/>}/>
-          <Route path='/cadCliente' eylement={<TelaCadCliente/>}/>
+          <Route path='/cadCliente' element={<TelaCadCliente/>}/>
           <Route path='/cadFornecedor' element={<TelaCadFornecedor/>}/>
           <Route path='/cadProduto' element={<TelaCadProduto/>}/>
           <Route path='/cadCategoria' element={<TelaCadCategoriaProduto/>}/>

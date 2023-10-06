@@ -6,7 +6,7 @@ import { Container } from "react-bootstrap";
 
 export default function TelaCadCategoriaProduto(props){
 
-    const produto = {};
+    const categoria = {};
     const [exibirFormulario, setExibirFormulario] = useState(false);
     const [listaCategorias, setListaCategorias] = useState([]);
     const [modoEdicao, setModoEdicao] = useState(false);
