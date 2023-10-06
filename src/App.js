@@ -11,8 +11,8 @@ export default function App() {
     <div className="App"> 
       <BrowserRouter>
         <Routes>  
-          <Route path='/' element={<TelaMenu/>}/>
-          <Route path='/cadCliente' element={<TelaCadCliente/>}/>
+          <Route path='/trab_1bim' element={<TelaMenu/>}/>
+          <Route path='/cadCliente' eylement={<TelaCadCliente/>}/>
           <Route path='/cadFornecedor' element={<TelaCadFornecedor/>}/>
           <Route path='/cadProduto' element={<TelaCadProduto/>}/>
           <Route path='/cadCategoria' element={<TelaCadCategoriaProduto/>}/>
