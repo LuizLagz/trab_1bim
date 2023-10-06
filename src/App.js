@@ -3,6 +3,7 @@ import TelaMenu from './telasCadastro/TelaMenu';
 import TelaCadCliente from './telasCadastro/TelaCadCliente'
 import TelaCadFornecedor from './telasCadastro/TelaCadFornecedor'
 import TelaCadProduto from './telasCadastro/TelaCadProduto';
+import TelaCadCategoriaProduto from './telasCadastro/TelaCadCategoriaProduto';
 
 export default function App() {
   
@@ -14,6 +15,7 @@ export default function App() {
           <Route path='/cadCliente' element={<TelaCadCliente/>}/>
           <Route path='/cadFornecedor' element={<TelaCadFornecedor/>}/>
           <Route path='/cadProduto' element={<TelaCadProduto/>}/>
+          <Route path='/cadCategoria' element={<TelaCadCategoriaProduto/>}/>
         </Routes>     
       </BrowserRouter>
     </div>

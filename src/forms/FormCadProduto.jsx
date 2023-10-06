@@ -75,7 +75,7 @@ export default function FormCadProduto(props){
                                 <Form.Control type="text" placeholder="Categoria..."
                                 id="categoria" 
                                 name="categoria"
-                                value = {produto.caregoria}
+                                value = {produto.categoria}
                                 onChange = {manipularMudanca}
                                 required
                                  />
