@@ -20,7 +20,7 @@ export default function TabelaCategoriaProduto(props){
             <Table striped bordered hover>
                 <thead>
                     <tr>
-                        <th>Nome Completo</th>
+                        <th>Nome da Categoria</th>
                     </tr>
                 </thead>
                 <tbody>          
