@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trab_1bim_lp2/static/css/main.eefc237f.css",
+    "main.js": "/trab_1bim_lp2/static/js/main.3f17eee4.js",
+    "index.html": "/trab_1bim_lp2/index.html",
+    "main.eefc237f.css.map": "/trab_1bim_lp2/static/css/main.eefc237f.css.map",
+    "main.3f17eee4.js.map": "/trab_1bim_lp2/static/js/main.3f17eee4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.3f17eee4.js"
+  ]
+}
