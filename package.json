@@ -1,8 +1,8 @@
 {
+  "homepage": "https://LuizLagz.github.io/trab_1bim",
   "name": "trab_1bim",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LuizLagz.github.io/trab_1bim",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
